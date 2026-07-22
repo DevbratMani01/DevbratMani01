@@ -67,9 +67,9 @@ A modern Typing Speed Tester built using **HTML, CSS, and JavaScript**.
 
 > **Tech Stack:** HTML • CSS • JavaScript
 
-🔗 Repository: **(Add Link Here)**
+🔗 Repository: https://github.com/DevbratMani01/DevbratMani01.github.io.git
 
-🌐 Live Demo: **(Add Link Here)**
+🌐 Live Demo: https://github.com/DevbratMani01/DevbratMani01.git
 
 ---
 
