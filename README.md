@@ -112,9 +112,9 @@ A modern Typing Speed Tester built using **HTML, CSS, and JavaScript**.
 ## 🏆 Coding Profiles
 
 - 💛 LeetCode: [Devbrat Mani](https://leetcode.com/u/DevbratMani01/)
-- 💙 HackerRank: **Username**
+- 💙 HackerRank: [Devbrat Mani Tripathi](https://www.hackerrank.com/profile/parthmani002)
 - 🤎 CodeChef: [devbratmani](https://www.codechef.com/users/devbratmani)
-- 💚 GeeksforGeeks: **Username**
+- 💚 GeeksforGeeks: [Devbrat Mani Tripathi](https://www.geeksforgeeks.org/profile/parthma034x)
 
 ---
 
